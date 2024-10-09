@@ -5,11 +5,12 @@
               / /|  /  __/ /_/ / /  / /_/ / __/ /__/ /_/ / / / /  / ___ |_/ /   
              /_/ |_/\___/\__,_/_/   \____/_/  \___/\__,_/_/ /_/  /_/  |_/___/   
                                                                       
+```
 
 # NeuroScan AI: Advanced Brain MRI Classification
 
 ## 🧠 About
-NeuroScan AI is a cutting-edge project that leverages TensorFlow and the VGG16 transfer learning architecture to classify brain MRI scans with impressive 96% accuracy. This powerful tool allows users to upload files and images for instant analysis, providing crucial insights into brain health.
+NeuroScan AI is a cutting-edge project that leverages TensorFlow and the VGG16 transfer learning architecture to classify brain MRI scans with impressive 96% accuracy. This powerful tool allows users to upload files and images for instant analysis, providing crucial insights into brain health. The model is seamlessly integrated with a mobile Android app built with Flutter, ensuring a user-friendly experience for healthcare professionals and patients alike.
 
 ## 🚀 Key Features
 - **High Accuracy**: Achieves 96% accuracy in classifying brain MRI scans
@@ -43,4 +44,3 @@ Engage with our AI-powered bot for in-depth discussions about your classificatio
 
 Join us in revolutionizing brain health diagnostics with NeuroScan AI!
 
-```
